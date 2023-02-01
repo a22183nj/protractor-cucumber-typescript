@@ -1,4 +1,4 @@
-### Protractor-Cucumber-TypeScript Framework  
+### Protractor-Cucumber-TypeScript
 
 #### Setup
 <pre>
